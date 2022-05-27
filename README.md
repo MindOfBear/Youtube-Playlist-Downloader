@@ -3,7 +3,7 @@ Created by Nicolaescu Ovidiu-Constantin using pytube.<br />
 Use this program to download your playlists from youtube!<br />
 
 # HOW TO USE
-1. Open links.txt<br />
+1. Open playlist.txt<br />
 2. Paste your link, foldername (The folder will be created here!)<br />
 3. Done! enjoy your playlist!<br />
 
